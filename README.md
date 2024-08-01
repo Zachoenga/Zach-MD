@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;RIAS_GREMORY-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+09.07.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Zach-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ZACH;RELEASED+01.08.24" alt="Typing SVG" /></a>
   </p>
     <img alt="ZACH-MD" width="720" height="931" src="https://telegra.ph/file/1e544e25fb9217c7714b2.jpg">
 <p align="center">
