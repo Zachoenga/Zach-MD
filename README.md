@@ -8,7 +8,7 @@
     <img alt="ZACH-MD" width="720" height="931" src="https://telegra.ph/file/1e544e25fb9217c7714b2.jpg">
 <p align="center">
 <priasgremorybot align="center">
-<a href="https://github.com/Zachoenga/Zach-MD"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Zachoenga/Zach-MD"><img title="Author" src="https://img.shields.io/badge/Zachoenga-black?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Zachoenga/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zachoenga?color=blue&style=flat-square"></a>
 <a href="https://github.com/Zachoenga/Zach-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zachoenga/Zach-MD?color=red&style=flat-square"></a>
