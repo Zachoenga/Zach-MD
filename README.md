@@ -70,7 +70,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On TELEGRAM**](https://t.me/Zach Mjeshi)
+- [**On TELEGRAM**](https://t.me/ZachMjeshi)
 
 ***
 
