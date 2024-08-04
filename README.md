@@ -1,4 +1,4 @@
-<h1 align="center"> Zach-MD V1.0 </h1>
+<h1 align="center"> Zach-MD  </h1>
 <p align="center">  
   
 ***
