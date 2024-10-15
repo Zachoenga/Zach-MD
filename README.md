@@ -50,7 +50,16 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <br>
     <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Deploy-grey?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-***
+***#### DEPLOY TO PANEL 
+
+1. If You don't have a account on panel Create a account.
+    <br>
+<a href='https://bot-hosting.net/?aff=1142245171136839680' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+
+2. Now Deploy
+    <br>
+<a href='https://bot-hosting.net/?aff=1142245171136839680' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
 ### CONTRIBUTIONS 
